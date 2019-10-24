@@ -91,3 +91,12 @@
    </div>
 </body>
 </html>
+<!--what i should learn-->
+
+<!--framework==laravel/codeignniter/yii/symphony/lumen/zend-->
+<!--python==djanngo/flask-->
+<!--java==java ee/spring/spring boot-->
+<!--mysql-->
+<!--nosql==monodb/cassandra db-->
+<!--javascript=raw js=>react/angular-->
+<!--develop apis==two system talk-->
